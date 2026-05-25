@@ -58,7 +58,8 @@ Steps:
 2. Set attenuator to **20 dB**.  
 3. Run the simulation.  
 4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.  
-
+<img width="1917" height="1022" alt="Screenshot 2026-05-18 142953" src="https://github.com/user-attachments/assets/30305c32-79a9-4ba2-8ef7-2858a0e5ebcf" />
+<img width="1916" height="1016" alt="image" src="https://github.com/user-attachments/assets/ae003ecb-7cde-4715-b7ed-c109af9b1345" />
 ---
 
 ## Report
