@@ -30,8 +30,7 @@ Receiver specifications:
 > Example: If ID ends with **43**, then ST = 4.3 × 10⁻²² A²/Hz.  
 
 Using the formulas above, calculate the receiver sensitivity.
-<img width="1441" height="1600" alt="image" src="https://github.com/user-attachments/assets/1626f879-43f8-497a-aaa1-7a6c3bbee5b7" />
-
+<img width="1102" height="1599" alt="image" src="https://github.com/user-attachments/assets/6915236b-5d59-4620-a482-71e398a3c62b" />
 
 ---
 
